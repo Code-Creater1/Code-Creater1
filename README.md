@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<!--
+
+I am a paasionate web devloper who's working on there personal skills to make full stack developer.
+I have building a many projects to develop my skills of full stack developer.
+I have learned HTML, CSS, Javascript and now i am learning python 
+
 **Code-Creater1/Code-Creater1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+💻 Tech Stack and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
