@@ -7,7 +7,7 @@ I am a passionate Web Developer currently working on improving my skills to beco
 
 So far, I have built multiple projects to strengthen my understanding of modern web technologies. I have a strong foundation in frontend development and I am currently learning backend development with Python.
 
-🔭 I’m currently working on
+<h3>🔭 I’m currently working on</h3>
 <ul>
   <li>Personal full stack projects</li>
   <li>E-commerce websites</li>
