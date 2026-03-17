@@ -26,7 +26,7 @@ So far, I have built multiple projects to strengthen my understanding of modern 
   <li>Shopify store setup</li>
 </ul>
 
-💻 Tech Stack and Tools
+<h3>💻 Tech Stack and Tools</h3>
 
 <br>
 
