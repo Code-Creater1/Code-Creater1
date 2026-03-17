@@ -13,13 +13,13 @@ So far, I have built multiple projects to strengthen my understanding of modern 
   <li>E-commerce websites</li>
   <li>Improving my frontend and backend skills</li>
 </ul>
-  👯 I’m looking to collaborate on
+  <h3>👯 I’m looking to collaborate on</h3>
 <ul>
 <li>Web development projects</li>
  <li>Open source contributions</li>
 <li>E-commerce solutions</li>
 </ul>
-💬 Ask me about
+<h3>💬 Ask me about</h3>
 <ul>
   <li>HTML, CSS, JavaScript</li>
   <li>Frontend development</li>
