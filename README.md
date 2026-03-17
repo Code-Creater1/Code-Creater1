@@ -1,22 +1,35 @@
 ## Hi there 👋
 
 
-I am a paasionate web devloper who's working on there personal skills to make full stack developer.
-I have building a many projects to develop my skills of full stack developer.
-I have learned HTML, CSS, Javascript and now i am learning python 
+<h1>🚀 About Me</h1>
 
-**Code-Creater1/Code-Creater1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Web Developer currently working on improving my skills to become a Full Stack Developer. I enjoy building projects that challenge me and help me grow in both frontend and backend development.
 
-Here are some ideas to get you started:
+So far, I have built multiple projects to strengthen my understanding of modern web technologies. I have a strong foundation in frontend development and I am currently learning backend development with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on
+<ul>
+  <li>Personal full stack projects</li>
+  <li>E-commerce websites</li>
+  <li>Improving my frontend and backend skills</li>
+</ul>
+  👯 I’m looking to collaborate on
+<ul>
+<li>Web development projects</li>
+ <li>Open source contributions</li>
+<li>E-commerce solutions</li>
+</ul>
+💬 Ask me about
+<ul>
+  <li>HTML, CSS, JavaScript</li>
+  <li>Frontend development</li>
+  <li>Shopify store setup</li>
+</ul>
+
+
+Frontend development
+
+Shopify store setup
 
 
 💻 Tech Stack and Tools
@@ -26,3 +39,4 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white
