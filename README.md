@@ -21,8 +21,8 @@
 
 ### 🛠️ Languages and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,graphql,postgres,mongodb,mysql,aws,docker,kubernetes,git&perline=9" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,mongodb,mysql,aws,docker,kubernetes,git&perline=7" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 🤝 Let's Connect
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <!-- <a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
   <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
