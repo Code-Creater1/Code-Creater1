@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Asadullah</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&width=600&lines=Full+Stack+Engineer;Scalable+Systems+Architect;UI%2FUX+Advocate+%26+Clean+Code+Enthusiast;Turning+Complexity+into+Clarity" alt="Typing Animation" />
@@ -15,14 +15,14 @@
 
 ### 💬 Building Connections Through Code
 
-> *"Good software engineers write code. Great software engineers write code that connects people, solves real-world problems, and inspires collaboration. Engineering is a team sport—every commit is a conversation."*
+> *"Good software engineers write code. Great software engineers write code that connects people, solves real-world problems, and inspires collaboration. Engineering is a team sport every commit is a conversation."*
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,nodejs,python,spring,go,graphql,postgres,mongodb,redis,mysql,aws,docker,kubernetes,githubactions,git,linux&perline=7" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,graphql,postgres,mongodb,redis,mysql,aws,docker,kubernetes,githubactions,git,linux&perline=7" />
 </p>
 
 ---
