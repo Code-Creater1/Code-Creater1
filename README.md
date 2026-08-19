@@ -40,7 +40,7 @@
 
 ### 🤝 Let's Connect
 
-<p>
+<p padding-right="20px">
   <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <!-- <a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
   <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
