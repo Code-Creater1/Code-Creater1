@@ -30,7 +30,7 @@
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-creater-1&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff" alt="GitHub Streak" width="48%" />
 </p>
 
