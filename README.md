@@ -25,8 +25,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,mongodb,mysql,aws,docker,kubernetes,git&perline=7" />
 </p>
 
----
-
 <!--### 📊 Engineering Metrics
 
 <p align="center">
