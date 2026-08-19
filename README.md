@@ -44,11 +44,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <!-- <a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
   <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <!-- <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=devto" /></a> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-creater1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
