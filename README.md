@@ -22,7 +22,7 @@
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,graphql,postgres,mongodb,redis,mysql,aws,docker,kubernetes,githubactions,git,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,graphql,postgres,mongodb,mysql,aws,docker,kubernetes,git,linux&perline=7" />
 </p>
 
 ---
